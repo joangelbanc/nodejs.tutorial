@@ -14,3 +14,6 @@ class SomeMathObject {
 //module.exports.SomeMathObject = SomeMathObject;
 
 module.exports = { sum: sum, PI: PI, SomeMathObject: SomeMathObject }
+
+
+// valida
