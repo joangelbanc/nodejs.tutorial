@@ -17,3 +17,7 @@ module.exports = { sum: sum, PI: PI, SomeMathObject: SomeMathObject }
 
 
 // valida
+
+
+
+//valida d2
