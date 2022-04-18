@@ -293,3 +293,6 @@ const personalInfoSchema = Joi.object().keys({
 
 //"hola bienvenida a casa"
 //"otra transformacion"
+
+
+//"texto valida"
