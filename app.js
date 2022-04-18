@@ -289,10 +289,3 @@ const personalInfoSchema = Joi.object().keys({
 })
 
 //const prefererencesSchema =
-
-
-//"hola bienvenida a casa"
-//"otra transformacion"
-
-
-//"texto valida"
