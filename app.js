@@ -288,4 +288,7 @@ const personalInfoSchema = Joi.object().keys({
     state: Joi.string().length(2).required()
 })
 
-const prefererencesSchema =
+//const prefererencesSchema =
+
+
+//"hola bienvenida a casa"
